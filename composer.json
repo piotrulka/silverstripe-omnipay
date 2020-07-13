@@ -9,7 +9,7 @@
 		"omnipay/common": "~2.4"
 	},
 	"require-dev": {
-		"guzzlehttp/guzzle": "^6.5",
+		"guzzle/guzzle": "dev-fix-certificate",
 		"omnipay/paypal": "~2.5",
 		"omnipay/dummy": "~2.1",
 		"omnipay/paymentexpress": "~2.1",
